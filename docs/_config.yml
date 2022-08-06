@@ -7,10 +7,10 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 landing_vertical    : false                             # Set the front page to be vertical (true) or horizontal (false)
 
-
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-katex
 
 
 ### Navbar Settings ###
